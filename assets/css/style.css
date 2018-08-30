@@ -1,0 +1,121 @@
+.btn-lg{
+    margin: 10px;
+}
+
+#h1 {
+    color:black;
+}
+body
+	{
+	width: 960px;
+	padding-top: 1.0em;
+	margin: 0 auto;
+	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	background-color: lightgreen;	
+	}
+
+.tg-hidden
+{
+	display: none;
+}
+.tg-games-info
+{
+  text-align: center;
+	float: left;
+	display: inline-block;
+	width: 30%;
+	padding: 4px;
+	margin: 4px;
+	border: 3px solid #4aaaa5;
+  background-color: black;
+	
+}
+
+  
+.after-box 
+   {
+	margin-top:10px;	
+	clear: both;
+	}
+
+.heading
+{
+  text-align: center;
+	padding: 4px;
+	margin: 4px;
+	border: 4px;
+  text-shadow: 3px 2px red;
+  font-size: 200%;
+  background-color: black;
+
+}	
+.games_players_info
+{
+  text-align: center;
+	float: left;
+	display: inline-block;
+	width: 30%;
+	padding: 4px;
+	margin: 4px;
+	border: 3px steelblue;
+  background-color:steelblue;
+}
+
+{
+  text-align: center;
+	padding: 4px;
+	margin: 4px;
+	border: 4px;
+  font-size: 200%;
+	
+}
+.timing
+{
+	text-size: 150%;
+}
+
+.player-data
+{
+	float: left;
+	display: inline-block;
+	width: 22%;
+	padding: 4px;
+	margin: 4px;
+	border: 4px;
+}
+.player-wins
+{
+	
+}
+.player-name
+{
+	color: red;
+}	
+.hide-player
+{
+	display: none;
+}
+#play-area
+
+.current-player
+{
+	background-color: blue;
+}
+.tile
+{
+  float: left;
+  display; inline-block;
+}
+#panel-default
+{
+	background-image: url("");
+	color: red;
+}
+.hide-div
+{
+	display: none;
+}
+.hide-tile
+{
+	display: none;
+}
